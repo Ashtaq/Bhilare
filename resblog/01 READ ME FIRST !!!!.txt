@@ -1,0 +1,9 @@
+Username: admin
+
+Password: admin
+
+
+ DATABASE NAMING "blog_admin_db"..
+
+DATABASE FILE IS INSIDE "databasefile" FOLDER
+
